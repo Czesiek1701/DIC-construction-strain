@@ -1,6 +1,13 @@
 # DIC-construction-strain
 Project realised during **Smart Measurement Systems** course. Program is calculating a movement of points (based on their surrounding) and strain of structure. 
 
+## Mainly libraries used in project
+
+ - numpy
+ - scipy
+ - matplotlib
+ - cv2 
+
 ## DIC method
 
 For each cell sums above are calulated. It main that for each nearest area of cell this expression is received and saved. Phase with minimum correlation value is selected and accepted as movement of the part of the image.
