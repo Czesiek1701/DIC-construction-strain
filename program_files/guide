@@ -1,0 +1,6 @@
+trackPointsstrain.py   - main script for tracking points
+myDIClibrary.py        - library for processing pictures
+nodesStrain.py         - calculate and plot the strain from grid of points
+mp4.py                 - script makes png frames from recorded by camera video
+make_test_video.py     - script makes video and saves start and end positions of points fixed with blooms
+blooms.py              - library for creating, moving and plotting random blooms
