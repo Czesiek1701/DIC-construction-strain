@@ -11,6 +11,15 @@ Program has implemented a second alghoritm of DIC which hearth is shown below. I
 
 <img src=https://github.com/Czesiek1701/DIC-construction-strain/assets/157902583/6a7c4d3b-b4a4-422e-af69-56a86be51be7 width="400">
 
+## Strain
+
+Strain calculated as average of length and angle differentials on element as shown below.
+
+<img src=https://github.com/Czesiek1701/DIC-construction-strain/assets/157902583/6346570d-eb0a-4a91-9ac2-a734a5b366d3 width="400">
+<br>
+<img src=https://github.com/Czesiek1701/DIC-construction-strain/assets/157902583/e8e82fe7-38f0-4cd0-becb-19868c462ce3 width="400">
+
+
 ## Reults movies
 
 [Objects tracking](https://youtu.be/zrzBHMZAEoY)
