@@ -3,4 +3,7 @@ myDIClibrary.py        - library for processing pictures
 nodesStrain.py         - calculate and plot the strain from grid of points
 mp4.py                 - script makes png frames from recorded by camera video
 make_test_video.py     - script makes video and saves start and end positions of points fixed with blooms
-blooms.py              - library for creating, moving and plotting random blooms
+blooms.py              - class for creating, moving and plotting random blooms
+
+First set paths and start mp4.py to generate single frames. Next set paths and method parameters to run script trackPointsstrain.py which returns end positions of given points.
+To validate program frames with blooms can be generated in make_test_video.py. Script returns also start and end positions of points for comparison with calculated results.S
