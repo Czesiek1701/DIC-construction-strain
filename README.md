@@ -28,6 +28,8 @@ Strain calculated as average of length and angle differentials on element as sho
 
 [Strain - first method](https://youtu.be/ym__KsELxck)
 
+[Strain - first method - better parameters set](https://youtu.be/fdnSe3eTF5Q)
+
 [Point tracking - second method](https://youtu.be/z-nL-ZFQ45M)
 
 [Strain - second method](https://youtu.be/HkWQuloM_p4)
