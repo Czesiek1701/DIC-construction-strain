@@ -24,7 +24,8 @@ Strain calculated as average of length and angle differentials on element as sho
 
 <img src=https://github.com/Czesiek1701/DIC-construction-strain/assets/157902583/6346570d-eb0a-4a91-9ac2-a734a5b366d3 width="400">
 <br>
-<img src=https://github.com/Czesiek1701/DIC-construction-strain/assets/157902583/e8e82fe7-38f0-4cd0-becb-19868c462ce3 width="400">
+<img src=https://github.com/Czesiek1701/DIC-construction-strain/assets/157902583/d310f6c9-d95e-4765-818d-22ebc409e1c6 width="400">
+
 
 
 ## Reults movies
